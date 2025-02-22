@@ -1,5 +1,3 @@
-# FaceCut-HairAdvisor
-
 
 # FaceCut-HairAdvisor <img align="right" src="https://img.shields.io/github/watchers/Graphical27/FaceCut-HairAdvisor?style=flat-square"> <img align="right" src="https://img.shields.io/github/stars/Graphical27/FaceCut-HairAdvisor?style=flat-square"> <img align="right" src="https://img.shields.io/github/forks/Graphical27/FaceCut-HairAdvisor?style=flat-square">
 
